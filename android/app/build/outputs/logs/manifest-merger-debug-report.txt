@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c8f1309781e2ecf291a3ada97fff06a5/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/daf1d59218f276420b130757b2f33d9c/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/5e556ccf7919733b0b77994ba881d62f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/d32fdcfadc3e7acd396da661f49841b2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c4a1f8dd962a39bf6ecba7946f889265/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4ac345b0ebd7ff8df5a57c7ee2eed0b8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/e38a894a9aea4176ac2790cebac69d1a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/9c682e21a52421792df7b45893b196d0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/5f368ac77249ce316084424edbb91c79/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/97ddede27a20477551b07843f428bbcf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/7698f9bd3b32d9cdd9b39c2d550683d9/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/3b0c3bc7ff3b671d001181350047863b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c00f773b6becf1d7e96bec898c236e73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/91ffcb2cd4de64fc3cf2fa454613688a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/47512aa41353801a2cc4b8e0765b9868/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/a31ad760e3d1fcde015809c97eea7fdd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/ecce8e2aaf1f29c1a05a6ca07d3332c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c280f1cb97660575fe3d05a555ae2a53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/b99c871cd0840bc1646cebdb84de7e44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/e77c576095eca3e43587941970380ccf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c266a239c7c00c1ab4e15e98f9f699ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/dc62e909a1f923d87ea0328045c82f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/63e4bbe47f82f4f7d8ac0bac8accdd3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/744d506c9b577ed75fa08fc80c59d1ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/8d31cb1a76092f451ff8e93505bd056f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4e56d1dd356b1cc8341352a1d68c487b/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/76f59dcdc175baab2b8b90f0aabf327a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/f4c3e1799e6b1e22d24b3c9667ce7922/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/b469efd8bfbb739b163d3fe3997364ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/d713452ff82cba951414d043e775fa34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4feff0b962614948bb3207e3e10b2e9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/41accd974c84a6721031e3d6c51895f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/1ffcca8c7d21bae04fda162cc45d14d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/47f2dbc3d69f2186ba528d564c0dbcde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/1a1050155d1652ee0324554c81acc278/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/b7a2fc822385224844b0280793223ba6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/86beacb5ca972beb9cb8ddd5be890de8/AndroidManifest.xml:2:1-9:12
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c8f1309781e2ecf291a3ada97fff06a5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c8f1309781e2ecf291a3ada97fff06a5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/7698f9bd3b32d9cdd9b39c2d550683d9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/7698f9bd3b32d9cdd9b39c2d550683d9/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/8d31cb1a76092f451ff8e93505bd056f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/8d31cb1a76092f451ff8e93505bd056f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4e56d1dd356b1cc8341352a1d68c487b/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4e56d1dd356b1cc8341352a1d68c487b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/8d31cb1a76092f451ff8e93505bd056f/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reactnewsfeed.MainActivity
+ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c8f1309781e2ecf291a3ada97fff06a5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c8f1309781e2ecf291a3ada97fff06a5/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/daf1d59218f276420b130757b2f33d9c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/daf1d59218f276420b130757b2f33d9c/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/5e556ccf7919733b0b77994ba881d62f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/5e556ccf7919733b0b77994ba881d62f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/d32fdcfadc3e7acd396da661f49841b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/d32fdcfadc3e7acd396da661f49841b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c4a1f8dd962a39bf6ecba7946f889265/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c4a1f8dd962a39bf6ecba7946f889265/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4ac345b0ebd7ff8df5a57c7ee2eed0b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4ac345b0ebd7ff8df5a57c7ee2eed0b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/e38a894a9aea4176ac2790cebac69d1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/e38a894a9aea4176ac2790cebac69d1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/9c682e21a52421792df7b45893b196d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/9c682e21a52421792df7b45893b196d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/5f368ac77249ce316084424edbb91c79/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/5f368ac77249ce316084424edbb91c79/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/97ddede27a20477551b07843f428bbcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/97ddede27a20477551b07843f428bbcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/7698f9bd3b32d9cdd9b39c2d550683d9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/7698f9bd3b32d9cdd9b39c2d550683d9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/3b0c3bc7ff3b671d001181350047863b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/3b0c3bc7ff3b671d001181350047863b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c00f773b6becf1d7e96bec898c236e73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c00f773b6becf1d7e96bec898c236e73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/91ffcb2cd4de64fc3cf2fa454613688a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/91ffcb2cd4de64fc3cf2fa454613688a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/47512aa41353801a2cc4b8e0765b9868/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/47512aa41353801a2cc4b8e0765b9868/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/a31ad760e3d1fcde015809c97eea7fdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/a31ad760e3d1fcde015809c97eea7fdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/ecce8e2aaf1f29c1a05a6ca07d3332c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/ecce8e2aaf1f29c1a05a6ca07d3332c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c280f1cb97660575fe3d05a555ae2a53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c280f1cb97660575fe3d05a555ae2a53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/b99c871cd0840bc1646cebdb84de7e44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/b99c871cd0840bc1646cebdb84de7e44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/e77c576095eca3e43587941970380ccf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/e77c576095eca3e43587941970380ccf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c266a239c7c00c1ab4e15e98f9f699ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/c266a239c7c00c1ab4e15e98f9f699ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/dc62e909a1f923d87ea0328045c82f5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/dc62e909a1f923d87ea0328045c82f5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/63e4bbe47f82f4f7d8ac0bac8accdd3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/63e4bbe47f82f4f7d8ac0bac8accdd3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/744d506c9b577ed75fa08fc80c59d1ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/744d506c9b577ed75fa08fc80c59d1ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/8d31cb1a76092f451ff8e93505bd056f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/8d31cb1a76092f451ff8e93505bd056f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4e56d1dd356b1cc8341352a1d68c487b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4e56d1dd356b1cc8341352a1d68c487b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/76f59dcdc175baab2b8b90f0aabf327a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/76f59dcdc175baab2b8b90f0aabf327a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/f4c3e1799e6b1e22d24b3c9667ce7922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/f4c3e1799e6b1e22d24b3c9667ce7922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/b469efd8bfbb739b163d3fe3997364ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/b469efd8bfbb739b163d3fe3997364ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/d713452ff82cba951414d043e775fa34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/d713452ff82cba951414d043e775fa34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4feff0b962614948bb3207e3e10b2e9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/4feff0b962614948bb3207e3e10b2e9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/41accd974c84a6721031e3d6c51895f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/41accd974c84a6721031e3d6c51895f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/1ffcca8c7d21bae04fda162cc45d14d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/1ffcca8c7d21bae04fda162cc45d14d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/47f2dbc3d69f2186ba528d564c0dbcde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/47f2dbc3d69f2186ba528d564c0dbcde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/1a1050155d1652ee0324554c81acc278/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/1a1050155d1652ee0324554c81acc278/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/b7a2fc822385224844b0280793223ba6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/b7a2fc822385224844b0280793223ba6/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/86beacb5ca972beb9cb8ddd5be890de8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kewalkanojia/.gradle/caches/transforms-2/files-2.1/86beacb5ca972beb9cb8ddd5be890de8/AndroidManifest.xml:5:5-7:41
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Volumes/Storage/react-native/reactNewsFeed/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Volumes/Storage/react-native/reactNewsFeed/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67

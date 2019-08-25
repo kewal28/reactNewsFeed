@@ -1,0 +1,4 @@
+#Sun Aug 25 17:20:04 IST 2019
+base.0=/Volumes/Storage/react-native/reactNewsFeed/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
